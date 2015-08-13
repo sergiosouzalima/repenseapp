@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Student:</strong>
+  <%= @classroom.student.name %>
+</p>
+
+<p>
+  <strong>Course:</strong>
+  <%= @classroom.course.name %>
+</p>
+
+<p>
+  <strong>Entry at:</strong>
+  <%= @classroom.entry_at.strftime('%d/%m/%Y %H:%M:%S') %>
+</p>
+
+<%= link_to 'Edit', edit_classroom_path(@classroom) %> |
+<%= link_to 'Back', classrooms_path %>
