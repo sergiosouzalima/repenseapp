@@ -14,7 +14,7 @@ Esta aplicação foi construída usando:
 Para saber mais [Installing Rails](http://railsapps.github.io/installing-rails.html).
 
 Desafio
----------------
+-------------------------
 
 Criar este Website para mostrar como associar aluno x curso através de matrículas.
 
@@ -40,4 +40,5 @@ Site hospedado no Heroku
 **Acesse este site pelo endereço abaixo:**
 
 - http://repenseapp.herokuapp.com
+
 
