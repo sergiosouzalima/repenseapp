@@ -34,4 +34,10 @@ Execução dos Testes
 
 - $ rspec -fd
 
+Site hospedado no Heroku
+-------------------------
+
+**Acesse este site pelo endereço abaixo:**
+
+- http://repenseapp.herokuapp.com
 
